@@ -1,0 +1,65 @@
+sample-id	barcode-sequence	sample-name	body-site	year	month	day	subject	days-since-experiment-start	variable-type	sex	media-types 	environmental-setting	race-ethnicity	age	occupation 
+#q2:types	categorical	categorical 	categorical	numeric	numeric	numeric	categorical	numeric	categorical 	categorical 	categorical 	categorical 	categorical	categorical	categorical 
+AL01		A0	supragingival plaque 	2021	8	20	Subject A	0	Expirmental 	Male	in vivo 	in situ	caucasion 	Adult	Student 
+AL02		AMD-1	supragingival plaque 	2021	8	21	Subject A	1	Expirmental 	Male	1% mucin 	hydroxyapatite disc	caucasion 	Adult	Student 
+AL03		AMW-8	supragingival plaque 	2021	8	28	Subject A	8	Expirmental 	Male	1% mucin 	polystyrene well	caucasion 	Adult	Student 
+AL04		ASW-8	supragingival plaque 	2021	8	28	Subject A	8	Expirmental 	Male	25% Saliva 	polystyrene well	caucasion 	Adult	Student 
+AL05		AMW-4	supragingival plaque 	2021	8	24	Subject A	4	Expirmental 	Male	1% mucin 	polystyrene well	caucasion 	Adult	Student 
+AL06		ASW-4	supragingival plaque 	2021	8	24	Subject A	4	Expirmental 	Male	25% Saliva 	polystyrene well	caucasion 	Adult	Student 
+AL07		AGW-1	supragingival plaque 	2021	8	21	Subject A	1	Expirmental 	Male	1 mM Glucose 	polystyrene well	caucasion 	Adult	Student 
+AL08		AGW-4	supragingival plaque 	2021	8	24	Subject A	4	Expirmental 	Male	1 mM Glucose 	polystyrene well	caucasion 	Adult	Student 
+AL09		AGW-8	supragingival plaque 	2021	8	28	Subject A	8	Expirmental 	Male	1 mM Glucose 	polystyrene well	caucasion 	Adult	Student 
+AL10		AMD-8	supragingival plaque 	2021	8	28	Subject A	8	Expirmental 	Male	1% mucin 	hydroxyapatite disc	caucasion 	Adult	Student 
+AL11		ASD-4	supragingival plaque 	2021	8	24	Subject A	4	Expirmental 	Male	25% Saliva 	hydroxyapatite disc	caucasion 	Adult	Student 
+AL12		ASW-1	supragingival plaque 	2021	8	21	Subject A	1	Expirmental 	Male	25% Saliva 	polystyrene well	caucasion 	Adult	Student 
+AL13		AGD-4	supragingival plaque 	2021	8	24	Subject A	4	Expirmental 	Male	1 mM Glucose 	hydroxyapatite disc	caucasion 	Adult	Student 
+AL14		AMD-4	supragingival plaque 	2021	8	24	Subject A	4	Expirmental 	Male	1% mucin 	hydroxyapatite disc	caucasion 	Adult	Student 
+AL15		AMW-1	supragingival plaque 	2021	8	21	Subject A	1	Expirmental 	Male	1% mucin 	polystyrene well	caucasion 	Adult	Student 
+AL16		ASD-1	supragingival plaque 	2021	8	21	Subject A	1	Expirmental 	Male	25% Saliva 	hydroxyapatite disc	caucasion 	Adult	Student 
+AL17		AGD-1	supragingival plaque 	2021	8	21	Subject A	1	Expirmental 	Male	1 mM Glucose 	hydroxyapatite disc	caucasion 	Adult	Student 
+AL18		ASD-8	supragingival plaque 	2021	8	28	Subject A	8	Expirmental 	Male	25% Saliva 	hydroxyapatite disc	caucasion 	Adult	Student 
+AL19		AGD-8	supragingival plaque 	2021	8	28	Subject A	8	Expirmental 	Male	1 mM Glucose 	hydroxyapatite disc	caucasion 	Adult	Student 
+AL20		EMW-4	supragingival plaque 	2021	8	24	Subject E	4	Expirmental 	Male	1% mucin 	polystyrene well	african american	Adult	Student 
+AL21		ESW-8	supragingival plaque 	2021	8	28	Subject E	8	Expirmental 	Male	25% Saliva 	polystyrene well	african american	Adult	Student 
+AL22		EMD-1	supragingival plaque 	2021	8	21	Subject E	1	Expirmental 	Male	1% mucin 	hydroxyapatite disc	african american	Adult	Student 
+AL23		EMW-8	supragingival plaque 	2021	8	28	Subject E	8	Expirmental 	Male	1% mucin 	polystyrene well	african american	Adult	Student 
+AL24		EMW-1	supragingival plaque 	2021	8	21	Subject E	1	Expirmental 	Male	1% mucin 	polystyrene well	african american	Adult	Student 
+AL25		EGW-4	supragingival plaque 	2021	8	24	Subject E	4	Expirmental 	Male	1 mM Glucose 	polystyrene well	african american	Adult	Student 
+AL26		EGW-8	supragingival plaque 	2021	8	28	Subject E	8	Expirmental 	Male	1 mM Glucose 	polystyrene well	african american	Adult	Student 
+AL27		EGD-4	supragingival plaque 	2021	8	24	Subject E	4	Expirmental 	Male	1 mM Glucose 	hydroxyapatite disc	african american	Adult	Student 
+AL28		EMD-4	supragingival plaque 	2021	8	24	Subject E	4	Expirmental 	Male	1% mucin 	hydroxyapatite disc	african american	Adult	Student 
+AL29		EGD-1	supragingival plaque 	2021	8	21	Subject E	1	Expirmental 	Male	1 mM Glucose 	hydroxyapatite disc	african american	Adult	Student 
+AL30		EGW-1	supragingival plaque 	2021	8	21	Subject E	1	Expirmental 	Male	1 mM Glucose 	polystyrene well	african american	Adult	Student 
+AL31		E0	supragingival plaque 	2021	8	20	Subject E	0	Expirmental 	Male	in vivo 	in situ	african american	Adult	Student 
+AL32		ESD-4	supragingival plaque 	2021	8	24	Subject E	4	Expirmental 	Male	25% Saliva 	hydroxyapatite disc	african american	Adult	Student 
+AL33		EGD-8	supragingival plaque 	2021	8	28	Subject E	8	Expirmental 	Male	1 mM Glucose 	hydroxyapatite disc	african american	Adult	Student 
+AL34		ESD-8	supragingival plaque 	2021	8	28	Subject E	8	Expirmental 	Male	25% Saliva 	hydroxyapatite disc	african american	Adult	Student 
+AL35		ESD-1	supragingival plaque 	2021	8	21	Subject E	1	Expirmental 	Male	25% Saliva 	hydroxyapatite disc	african american	Adult	Student 
+AL36		ESW-1	supragingival plaque 	2021	8	21	Subject E	1	Expirmental 	Male	25% Saliva 	polystyrene well	african american	Adult	Student 
+AL37		ESW-4	supragingival plaque 	2021	8	24	Subject E	4	Expirmental 	Male	25% Saliva 	polystyrene well	african american	Adult	Student 
+AL38		EMD-8	supragingival plaque 	2021	8	28	Subject E	8	Expirmental 	Male	1% mucin 	hydroxyapatite disc	african american	Adult	Student 
+AL39		TMW-8	supragingival plaque 	2021	8	28	Subject T	8	Expirmental 	Female 	1% mucin 	polystyrene well	Latino	Adult	Student 
+AL40		T0	supragingival plaque 	2021	8	20	Subject T	0	Expirmental 	Female 	in vivo 	in situ	Latino	Adult	Student 
+AL41		TMW-4	supragingival plaque 	2021	8	24	Subject T	4	Expirmental 	Female 	1% mucin 	polystyrene well	Latino	Adult	Student 
+AL42		TSW4	supragingival plaque 	2021	8	24	Subject T	4	Expirmental 	Female 	25% Saliva 	polystyrene well	Latino	Adult	Student 
+AL43		TSW8	supragingival plaque 	2021	8	28	Subject T	8	Expirmental 	Female 	25% Saliva 	polystyrene well	Latino	Adult	Student 
+AL44		TGW-1	supragingival plaque 	2021	8	21	Subject T	1	Expirmental 	Female 	1 mM Glucose 	polystyrene well	Latino	Adult	Student 
+AL45		TMD-8	supragingival plaque 	2021	8	28	Subject T	8	Expirmental 	Female 	1% mucin 	hydroxyapatite disc	Latino	Adult	Student 
+AL46		TGW-8	supragingival plaque 	2021	8	28	Subject T	8	Expirmental 	Female 	1 mM Glucose 	polystyrene well	Latino	Adult	Student 
+AL47		TMW-1	supragingival plaque 	2021	8	21	Subject T	1	Expirmental 	Female 	1% mucin 	polystyrene well	Latino	Adult	Student 
+AL48		TMD-1	supragingival plaque 	2021	8	21	Subject T	1	Expirmental 	Female 	1% mucin 	hydroxyapatite disc	Latino	Adult	Student 
+AL49		TGW-4	supragingival plaque 	2021	8	24	Subject T	4	Expirmental 	Female 	1 mM Glucose 	polystyrene well	Latino	Adult	Student 
+AL50		TGD-4	supragingival plaque 	2021	8	24	Subject T	4	Expirmental 	Female 	1 mM Glucose 	hydroxyapatite disc	Latino	Adult	Student 
+AL51		TSD-4	supragingival plaque 	2021	8	24	Subject T	4	Expirmental 	Female 	25% Saliva 	hydroxyapatite disc	Latino	Adult	Student 
+AL52		TGD-1	supragingival plaque 	2021	8	21	Subject T	1	Expirmental 	Female 	1 mM Glucose 	hydroxyapatite disc	Latino	Adult	Student 
+AL53		TSW1	supragingival plaque 	2021	8	21	Subject T	1	Expirmental 	Female 	25% Saliva 	polystyrene well	Latino	Adult	Student 
+AL54		TGD-8	supragingival plaque 	2021	8	28	Subject T	8	Expirmental 	Female 	1 mM Glucose 	hydroxyapatite disc	Latino	Adult	Student 
+AL55		TSD-8	supragingival plaque 	2021	8	28	Subject T	8	Expirmental 	Female 	25% Saliva 	hydroxyapatite disc	Latino	Adult	Student 
+AL56		TMD-4	supragingival plaque 	2021	8	24	Subject T	4	Expirmental 	Female 	1% mucin 	hydroxyapatite disc	Latino	Adult	Student 
+AL57		TSD-1	supragingival plaque 	2021	8	21	Subject T	1	Expirmental 	Female 	25% Saliva 	hydroxyapatite disc	Latino	Adult	Student 
+AL58		CSW	control				control		control		DI H2O	DI H2O			
+AL59		CSM	control				control		control		Mops 	Mops 			
+AL60		CSG	control				control		control		1mM Glucose	1mM Glucose			
+AL61		CSMC	control				control		control		1% mucin 	1% mucin 			
+AL62		CSS	control				control		control		25% Saliva 	25% Saliva 			
+AL63		CSZ	control				control		control		mock library 	mock library 			
