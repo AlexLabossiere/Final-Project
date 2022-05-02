@@ -1,7 +1,9 @@
 # Final-Project
 Final project for  DSP539
 
-Recall from the paper, this information is for an _in vitro_ supragingal biofilm model. The main goal of this research is to be able idenitfy and maintain the a beta diverstiy to that of the initial plaque inocluum and have it maintained throughout a given time period. We want to see which media conditions is best at mantianing the inital plaque diversity.  
+Recall from the paper, this information is for an _in vitro_ supragingal biofilm model. The main goal of this research is to be able idenitfy and maintain the a beta diverstiy to that of the initial plaque inocluum and have it maintained throughout a given time period. We want to see which media conditions is best at mantianing the inital plaque diversity - this is our goal
+
+- the included scripts is whats needed to _achieve this goal_, however a few more filter scripts need to be made in order to complete this goal. These future filter scripts will be able to take away outliers or singlecons that are found within our samples to minimize biase as much as possible to have the most presentable and "clean" data. 
 
 --------------KEY NOTE--------------
 This scripts for meta filters and control filters are NOT functional 100%, they will give some .qza files but will not excute entire script. Need more testing in order ot progress this 
